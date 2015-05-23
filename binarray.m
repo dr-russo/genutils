@@ -1,4 +1,4 @@
-function bits = binarray(input)
+3function bits = binarray(input)
 %===============================================================================
 % BINARRAY
 % Converts numbers or characters to their binary representation.

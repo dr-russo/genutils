@@ -21,7 +21,7 @@ end
 
 sigma = fs/(2*pi*fc);
 
-W = 6*sigma-1;          %Filter width.
+W = 5*sigma-1;          %Filter width.
 
 %Construct filter
 x = linspace(-W/2,W/2,W);
